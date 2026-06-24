@@ -79,8 +79,6 @@ terraform destroy
 
 ## Project Screenshots
 
-## Project Screenshots
-
 ### Terraform Apply Success
 ![Terraform Apply](images/terraform-apply.png)
 
