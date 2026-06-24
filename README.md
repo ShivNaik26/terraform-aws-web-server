@@ -79,24 +79,21 @@ terraform destroy
 
 ## Project Screenshots
 
-## Terraform Apply Success
+## Project Screenshots
 
+### Terraform Apply Success
 ![Terraform Apply](images/terraform-apply.png)
 
-## EC2 Instance Running
-
-![EC2 Running](images/ec2-running.png)
-
-## Security Group Configuration
-
-![Security Group](images/security-group.png)
-
-## EC2 Instance Connect
-
+### EC2 Instance Connect
 ![EC2 Connect](images/ec2-connect.png)
 
-## Nginx Web Server
+### EC2 Instance Running
+![EC2 Running](images/ec2-running.png)
 
+### Security Group Configuration
+![Security Group](images/security-group.png)
+
+### Nginx Web Server Output
 ![Nginx Output](images/nginx-output.png)
 
 ## Project Outcome
