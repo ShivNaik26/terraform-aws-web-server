@@ -80,29 +80,37 @@ terraform destroy
 ## Project Screenshots
 
 ### Terraform Apply Success
-![Terraform Apply](images/terraform-apply.png)
-
-### EC2 Instance Connect
-![EC2 Connect](images/ec2-connect.png)
+![Terraform Apply Success](terraform-apply-success.png)
 
 ### EC2 Instance Running
-![EC2 Running](images/ec2-running.png)
+![EC2 Instance Running](ec2-running.png)
 
 ### Security Group Configuration
-![Security Group](images/security-group.png)
+![Security Group Configuration](security-group.png)
 
-### Nginx Web Server Output
-![Nginx Output](images/nginx-output.png)
+### EC2 Instance Connect
+![EC2 Instance Connect](ec2-connect.png)
+
+### Nginx Web Server
+![Nginx Web Server](nginx-web-server.png)
+
+---
 
 ## Project Outcome
 
 Successfully provisioned AWS infrastructure using Terraform and deployed a publicly accessible Nginx web server.
 
+### Components Created
+- AWS EC2 Instance
+- Custom VPC
+- Public Subnet
+- Internet Gateway
+- Security Group
+- Nginx Web Server
+
+---
+
 ## Author
 
-**Shivprasad Naik**
-
+**Shivaprasad Naik**  
 MCA Graduate | AWS & DevOps Learner
-
-GitHub:
-https://github.com/ShivNaik26
